@@ -1,1 +1,74 @@
-Ödev - 1
+1. Sayı Tahmin Oyunu
+
+Program rastgele bir sayı tutsun (1–10 arası).
+Kullanıcı tahmin girsin:
+
+Doğruysa: "Bildiniz!"
+Yanlışsa: "Tekrar deneyin"
+
+(İpucu: import random)
+
+2. Liste İçinde En Büyük Sayıyı Bul
+
+Bir sayı listesi oluştur.
+
+Döngü kullanarak en büyük sayıyı bul
+max() kullanmak YASAK
+3. Tek ve Çift Sayıları Ayır
+
+Kullanıcıdan 5 adet sayı al ve iki ayrı liste oluştur:
+
+tekSayilar
+ciftSayilar
+
+Sonuçları yazdır.
+
+4. Şifre Güç Kontrolü
+
+Kullanıcıdan şifre al:
+
+Uzunluk < 6 → "Zayıf"
+Uzunluk 6–10 → "Orta"
+Uzunluk > 10 → "Güçlü"
+5. İsmi Tersten Yazdır
+
+Kullanıcıdan bir isim al.
+
+İsmi ters çevirip yazdır
+Örn: Ahmet → temhA
+6. Listeyi Filtreleme
+
+Bir sayı listesi oluştur:
+
+Sadece 10'dan büyük olanları yeni listeye ekle
+Yeni listeyi yazdır
+7. Kullanıcıdan Sürekli Veri Alma
+
+Kullanıcıdan sürekli isim al:
+
+"q" girene kadar devam et
+Tüm isimleri listeye ekle
+En sonunda listeyi yazdır
+8. Ortalamayı Hesapla
+
+Kullanıcıdan 5 not al:
+
+Ortalamayı hesapla
+50 üstü → "Geçti"
+50 altı → "Kaldı"
+9. Aynı Elemanları Bul
+
+İki liste oluştur:
+
+Ortak elemanları bulan program yaz
+Yeni listeye ekle
+10. Menülü Program
+
+Kullanıcıya sürekli şu menüyü göster:
+
+1- Sayı Ekle
+2- Listeyi Göster
+3- Çıkış
+Sayı eklenebilmeli
+Liste gösterilebilmeli
+3'e basınca program bitmeli
